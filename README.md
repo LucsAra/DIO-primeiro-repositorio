@@ -1,7 +1,6 @@
-# DIO Primeiro Repositório
-
-## Desafio de Projeto sobre Git/GitHub
-Espaço para colocar minhas anotações e exercícios que eu achar relevante durante minha carreira. Não tenho nada para adicionar no momento, pois estou bem no começo. Isso é so para concluir o desafio.
+# Primeiro Repositório
+Aqui vou criar meu primeiro repositório com links que eu achar úteis para meus estudos de programação. Espero ajudar, caso alguém além de mim veja esse repositório
 
 # Links úteis
-à descobrir...
+[Vários tutoriais w3schools](w3schools.com)
+[Desafios práticos jQuery](jqueryui.com)
